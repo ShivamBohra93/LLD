@@ -1,0 +1,34 @@
+80% of the system design interviews I’ve given & have heard about from peers & mentees always have a similar problem to these ten problems (don’t miss out on reading these)
+
+1. Video streaming services like Netflix: https://lnkd.in/gnHSyCj8 
+
+2. Autocomplete feature of Google: https://lnkd.in/g3VFcaYN 
+
+3. Proximity service like Uber: https://lnkd.in/grtPbr6k 
+
+4. Hotel booking services like Airbnb: https://lnkd.in/gWjrGwCM 
+
+5. File sharing service like Dropbox: https://lnkd.in/gnSQ6rAd 
+
+6. Web crawler: https://lnkd.in/gTkfCH8U 
+
+7. Social media apps like Twitter: https://lnkd.in/guParNhY 
+
+8. Messaging app like WhatsApp: https://lnkd.in/g5zJa_4W 
+
+9. Online document editor like Google Docs: https://lnkd.in/gBvztEqV 
+
+10. URL shortener or TinyURL: https://lnkd.in/gJPWZsX3 
+
+Note: This is based on my personal experience. I am not claiming that these exact problems will be asked. However, studying these resources will help. 
+
+P.S: I’ve been getting 10+ queries regarding DSA, HLD, and LLD daily
+
+So, to answer all, I’ve launched my One Stop Resource guide for aspiring software engineers.
+
+This guide help you with:
+- full roadmap of DSA, HLD, and LLD for interviews
+- good resources that I used included to save you time
+- lots of problems and case studies for DSA and system design
+
+Here’s the link: https://lnkd.in/e-detVTg (220+ students are already using it)
