@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public interface WeatherData implements {
+public class WeatherData implements Subject {
 	private ArrayList<Observer> observers;
 	private float temp;
 	private float humidity;
@@ -23,7 +23,7 @@ public interface WeatherData implements {
 	@Override
 	public void notify_observer() {
 		for (Observer observer : observers) {
-			Observer.update(temp, humidity, pressure);
+			observer.update(temp, humidity, pressure);
 		}
 	}
 
