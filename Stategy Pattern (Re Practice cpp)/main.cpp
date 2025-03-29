@@ -1,5 +1,5 @@
-#include "mallard_duck.h"
-#include "rubber_duck.h"
+#include "ducks/mallard_duck.h"
+#include "ducks/rubber_duck.h"
 using namespace std;
 
 int main() {
