@@ -1,0 +1,25 @@
+// -------------------------------------------
+// Public, Protected, and Private Inheritance in C++
+// -------------------------------------------
+
+/*
+1. Public Inheritance:
+   - Public members of the base class become public in the derived class.
+   - Protected members of the base class remain protected in the derived class.
+   - Private members of the base class are not accessible in the derived class.
+   Example:
+   class Derived : public Base { ... };
+
+2. Protected Inheritance:
+   - Public and protected members of the base class become protected in the derived class.
+   - Private members of the base class are not accessible in the derived class.
+   Example:
+   class Derived : protected Base { ... };
+
+3. Private Inheritance:
+   - Public and protected members of the base class become private in the derived class.
+   - Private members of the base class are not accessible in the derived class.
+   Example:
+   class Derived : private Base { ... };
+*/
+
