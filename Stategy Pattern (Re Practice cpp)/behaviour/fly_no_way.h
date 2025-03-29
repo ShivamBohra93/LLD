@@ -1,3 +1,4 @@
+#pragma once
 #include "fly_behaviour.h"
 
 class FlyNoWay : public FlyBehavior {
